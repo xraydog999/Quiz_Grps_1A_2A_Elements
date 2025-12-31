@@ -1,5 +1,3 @@
 streamlit
 ipython
 st-gsheets-connection
-numpy
-
