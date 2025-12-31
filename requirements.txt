@@ -1,1 +1,3 @@
 streamlt
+ipython
+st-gsheets-connection
